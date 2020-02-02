@@ -1,4 +1,3 @@
-# zhoutaohz.github.io
-zhoutao's blog
+# zhoutao's blog
 
 I have a blog!
