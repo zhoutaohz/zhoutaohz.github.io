@@ -1,0 +1,27 @@
+url: "https://imhuster.github.io"
+
+permalink: /:year/:month/:day/:title/
+
+github_username: heihei2015
+email: zhoutaor2013@163.com
+
+description_footer: my blog
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+
+# url
+category_dir: category/
+tag_dir: tag/
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+gems: [jekyll-paginate]
+paginate: 6
